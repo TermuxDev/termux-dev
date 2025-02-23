@@ -44,7 +44,7 @@ Before using Core-Termux, ensure the following:
 1. **Clone the Repository**  
    Open Termux and run the following commands:  
    ```bash
-   git clone https://github.com/DevCoreX/core-termux.git
+   git clone https://github.com/Dev-CoreX/core-termux.git
    ```
    ```bash
    cd core-termux
@@ -109,12 +109,10 @@ We welcome contributions from the community! Follow these steps to contribute:
 
 1. ** Fork the repository.**
 
-
 2. ** Create a new branch:**
 ```bash
 git checkout -b feature/your-feature-name.
 ```
-
 
 3. ** Commit your changes:**
 
