@@ -95,11 +95,11 @@ core-termux/
 
 Core-Termux is developed and maintained by DevCoreX. For support, suggestions, or contributions:
 
-Author: DevCoreX
+**Author:** DevCoreX
 
-Email: termuxdev.00@gmail.com
+**Email:** termuxdev.00@gmail.com
 
-GitHub: Dev-CoreX
+**GitHub:** Dev-CoreX
 
 ---
 
@@ -115,7 +115,6 @@ git checkout -b feature/your-feature-name.
 ```
 
 3. ** Commit your changes:**
-
 ```bash
 git commit -m 'Add your feature here'.
 ```
