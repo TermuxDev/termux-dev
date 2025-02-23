@@ -107,14 +107,14 @@ Core-Termux is developed and maintained by DevCoreX. For support, suggestions, o
 
 We welcome contributions from the community! Follow these steps to contribute:
 
-1. ** Fork the repository.**
+1. **Fork the repository.**
 
-2. ** Create a new branch:**
+2. **Create a new branch:**
 ```bash
 git checkout -b feature/your-feature-name.
 ```
 
-3. ** Commit your changes:**
+3. **Commit your changes:**
 ```bash
 git commit -m 'Add your feature here'.
 ```
