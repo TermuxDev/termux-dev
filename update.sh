@@ -55,6 +55,8 @@ if [ "${local_commit}" != "${remote_commit}" ]; then
 
   # update core-termux
   cd ${core} && git pull origin main
+  cd
 else
+  cd
   echo -e ""
 fi
